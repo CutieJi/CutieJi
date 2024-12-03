@@ -23,5 +23,5 @@
 <img align="left" alt="Tailwind" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/tailwind.png" />
 
 <p align="left">
-  <a href="https://github.com/CutieJi"><img src="https://github-readme-stats.vercel.app/api?username=rakha-elctrnx&hide_border=true&show_icons=true" alt="Rakha's github stats"></a>
+  <a href="https://github.com/CutieJi"><img src="https://github-readme-stats.vercel.app/api?username=CutieJi&hide_border=true&show_icons=true" alt="Rosh's github stats"></a>
 </p>
