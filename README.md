@@ -51,7 +51,7 @@
   
   <p>Visit my website where you'll discover beautiful creations crafted with hardwork and love!</p>
   
-  <a href="https://www.roshingel.netlify.app">
+  <a href="https://roshingel.netlify.app/">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Portfolio" />
   </a>
   
@@ -74,11 +74,11 @@
 
 ## 📫 Let's Connect
 <div align="center">
-  <a href="mailto:princesanguan44@gmail.com">
+  <a href="mailto:roshjingel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/prince-sanguan-a78988274/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/TikTok-0077B5?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
   <a href="https://x.com/prince_san84921">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
