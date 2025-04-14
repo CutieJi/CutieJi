@@ -1,27 +1,86 @@
-## Welcome to My Github Repo!
+<div align="center">
+  <h1>👋 Hello, I'm Prince Sanguan</h1>
+  <h3>Full Stack Web Developer | Laravel Specialist | Mobile App Enthusiast | Chess Player</h3>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="mailto:princesanguan44@gmail.com">
+      <img src="https://img.shields.io/badge/Email-princesanguan44@gmail.com-important?style=flat&logo=gmail" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/prince-sanguan-a78988274/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    </a>
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakha-elctrnx&label=Profile%20views&color=0e75b6&style=flat" alt="wirapratamaz" /> </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Turning+ideas+into+digital+reality;Clean+code+advocate;Continuous+learner" alt="Typing SVG" />
+</div>
 
-- 👋 Hi, I’m Rosh Ingel!
-- 👀 I’m interested in PHP, CSS & Javascript
-- 🌱 I’m currently learning Laravel, Vue...
-- 💞️ I’m looking to collaborate on ...
+---
 
-### My Top Languages
+## 🚀 About Me
+- 💻 **Full Stack Developer** specializing in Laravel and Web Development
+- 📱 Currently exploring **Flutter** for cross-platform mobile development
+- ♟️ Chess puzzle enthusiast with **2200+** Chess.com bullet rating
+- 🎓 Bachelor of science in Statistics graduate
+- 🤝 Open to collaborating on innovative web projects
 
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<br><br>
+---
 
-### My Top Frameworks / Library
+## 🛠️ Tech Stack
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img align="left" alt="Laravel" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/laravel.png" />
-<img align="left" alt="Next Js" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/next-js.png" />
-<img align="left" alt="Tailwind" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/tailwind.png" />
+### **Backend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="left">
-  <a href="https://github.com/CutieJi"><img src="https://github-readme-stats.vercel.app/api?username=CutieJi&hide_border=true&show_icons=true" alt="Rosh's github stats"></a>
-</p>
+### **Mobile & Others**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## ✨ My Portfolio
+
+<div align="center">
+  <h3>🌟 Want to see my astonishing projects? 🌟</h3>
+  
+  <p>Visit my website where you'll discover beautiful creations crafted with hardwork and love!</p>
+  
+  <a href="https://www.psanguan.com">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Portfolio" />
+  </a>
+  
+  <p>✨ <i>Where creativity meets functionality</i> ✨</p>
+</div>
+
+---
+
+## 📈 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=princesanguan&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princesanguan&layout=compact&langs_count=8&theme=merko"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princesanguan&theme=react-dark&hide_border=true&area=true" width="90%">
+</div>
+
+---
+
+## 📫 Let's Connect
+<div align="center">
+  <a href="mailto:princesanguan44@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/prince-sanguan-a78988274/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://x.com/prince_san84921">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+</div>
