@@ -7,8 +7,8 @@
     <a href="mailto:roshjingel@gmail.com">
       <img src="https://img.shields.io/badge/Email-roshjingel@gmail.com-important?style=flat&logo=gmail" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/prince-sanguan-a78988274/">
-      <img src="https://img.shields.io/badge/Github-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    <a href="[https://tiktok](https://www.tiktok.com/@sam.udt?_t=ZS-8vWtCjolRXW&_r=1)">
+      <img src="https://img.shields.io/badge/TikTok-Connect-blue?style=flat&logo=TikTok" alt="TikTok" />
     </a>
   </p>
 
