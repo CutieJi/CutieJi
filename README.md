@@ -20,8 +20,8 @@
 ## 🚀 About Me
 - 💻 **Full Stack Developer** specializing in Laravel and Web Development
 - 📱 Currently exploring **Flutter** for cross-platform mobile development
-- ♟️ Chess puzzle enthusiast with **2200+** Chess.com bullet rating
-- 🎓 Bachelor of science in Statistics graduate
+- ♟️ ML Player with **80+** star
+- 🎓 Bachelor of science in Information Technology
 - 🤝 Open to collaborating on innovative web projects
 
 ---
@@ -51,7 +51,7 @@
   
   <p>Visit my website where you'll discover beautiful creations crafted with hardwork and love!</p>
   
-  <a href="https://www.psanguan.com">
+  <a href="https://www.roshingel.netlify.app">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Portfolio" />
   </a>
   
@@ -62,12 +62,12 @@
 
 ## 📈 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=princesanguan&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princesanguan&layout=compact&langs_count=8&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cutieji&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutieji&layout=compact&langs_count=8&theme=merko"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princesanguan&theme=react-dark&hide_border=true&area=true" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cutieji&theme=react-dark&hide_border=true&area=true" width="90%">
 </div>
 
 ---
