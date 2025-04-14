@@ -4,7 +4,7 @@
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    <a href="mailto:princesanguan44@gmail.com">
+    <a href="mailto:roshjingel@gmail.com">
       <img src="https://img.shields.io/badge/Email-princesanguan44@gmail.com-important?style=flat&logo=gmail" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/prince-sanguan-a78988274/">
