@@ -21,7 +21,7 @@
 - 💻 **Full Stack Developer** specializing in Laravel and Web Development
 - 📱 Currently exploring **Flutter** for cross-platform mobile development
 - ♟️ ML Player with **80+** star
-- 🎓 Bachelor of science in Information Technology
+- 🎓 Bachelor of science in Computer Science
 - 🤝 Open to collaborating on innovative web projects
 
 ---
