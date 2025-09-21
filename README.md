@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 - 💻 **Full Stack Developer** specializing in Laravel and Web Development
-- 📱 Currently exploring **Flutter** for cross-platform mobile development
+- 📱 Currently exploring **React Native** for cross-platform mobile development
 - 🎓 Bachelor of science in Computer Science
 - 🤝 Open to collaborating on innovative web projects
 
