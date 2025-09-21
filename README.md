@@ -78,7 +78,7 @@
   <a href="https://www.tiktok.com/@sam.udt?_t=ZS-8vWtCjolRXW&_r=1">
     <img src="https://img.shields.io/badge/TikTok-0077B5?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/share/1DduMRwMmR/">
+  <a href="https://www.facebook.com/roshuaz.xo/">
     <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 </div>
