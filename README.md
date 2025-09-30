@@ -82,3 +82,16 @@
     <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 </div>
+
+## 🤝 Donate/Support 
+<center>
+<a href="https://www.buymeacoffee.com/roshu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  <br>
+</center>
+<br>
+<br>
+
+
+```
+console.log('Happy Hacking!!')
+```
