@@ -65,7 +65,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cutieji&theme=react-dark&hide_border=true&area=true" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cutieji&theme=dracula&hide_border=true&area=true" width="90%">
 </div>
 
 ---
