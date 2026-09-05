@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Email-roshingel.dev@gmail.com-important?style=flat&logo=gmail" alt="Email" />
     </a>
     <a href="https://www.tiktok.com/@sam.udt?_t=ZS-8vWtCjolRXW&_r=1">
-      <img src="https://img.shields.io/badge/Linkedin-Connect-blue?style=flat&logo=TikTok" alt="TikTok" />
+      <img src="https://img.shields.io/badge/Linkedin-Connect-blue?style=flat&logo=Linkedin" alt="TikTok" />
     </a>
   </p>
 
