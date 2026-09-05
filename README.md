@@ -7,7 +7,7 @@
     <a href="mailto:roshingel.dev@gmail.com">
       <img src="https://img.shields.io/badge/Email-roshingel.dev@gmail.com-important?style=flat&logo=gmail" alt="Email" />
     </a>
-    <a href="https://www.tiktok.com/@sam.udt?_t=ZS-8vWtCjolRXW&_r=1">
+    <a href="https://www.linkedin.com/in/roshingel/">
       <img src="https://img.shields.io/badge/Linkedin-Connect-blue?style=flat&logo=Linkedin" alt="Linkedin" />
     </a>
   </p>
@@ -75,8 +75,8 @@
   <a href="mailto:roshingel.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.tiktok.com/@sam.udt?_t=ZS-8vWtCjolRXW&_r=1">
-    <img src="https://img.shields.io/badge/TikTok-0077B5?style=for-the-badge&logo=tiktok&logoColor=white">
+  <a href="https://www.linkedin.com/in/roshingel/">
+    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.facebook.com/roshuaz.xo/">
     <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white">
