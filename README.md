@@ -4,7 +4,7 @@
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    <a href="mailto:roshjingel@gmail.com">
+    <a href="mailto:roshingel.dev@gmail.com">
       <img src="https://img.shields.io/badge/Email-roshjingel@gmail.com-important?style=flat&logo=gmail" alt="Email" />
     </a>
     <a href="https://www.tiktok.com/@sam.udt?_t=ZS-8vWtCjolRXW&_r=1">
@@ -72,7 +72,7 @@
 
 ## 📫 Let's Connect
 <div align="center">
-  <a href="mailto:roshjingel@gmail.com">
+  <a href="mailto:roshingel.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.tiktok.com/@sam.udt?_t=ZS-8vWtCjolRXW&_r=1">
