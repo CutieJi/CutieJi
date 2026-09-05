@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Email-roshingel.dev@gmail.com-important?style=flat&logo=gmail" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/roshingel/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=LinkedIn" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
     </a>
   </p>
 
