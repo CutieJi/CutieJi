@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Email-roshingel.dev@gmail.com-important?style=flat&logo=gmail" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/roshingel/">
-      <img src="https://img.shields.io/badge/Linkedin-Connect-blue?style=flat&logo=Linkedin" alt="Linkedin" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=LinkedIn" alt="LinkedIn" />
     </a>
   </p>
 
@@ -76,7 +76,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/roshingel/">
-    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.facebook.com/roshuaz.xo/">
     <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white">
