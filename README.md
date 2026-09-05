@@ -3,7 +3,9 @@
   <h3>Full Stack Web Developer | Database Specialist</h3>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="https://github.com/CutieJi/">
+      <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    </a>
     <a href="mailto:roshingel.dev@gmail.com">
       <img src="https://img.shields.io/badge/Email-roshingel.dev@gmail.com-important?style=flat&logo=gmail" alt="Email" />
     </a>
