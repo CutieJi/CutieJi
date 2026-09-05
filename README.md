@@ -1,15 +1,13 @@
 <div align="center">
   <h1>👋 Hello, I'm Rosh Ingel</h1>
   <h3>Full Stack Web Developer | Database Specialist</h3>
-
+  
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=PrinceSanguan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
     <a href="mailto:roshingel.dev@gmail.com">
       <img src="https://img.shields.io/badge/Email-roshingel.dev@gmail.com-important?style=flat&logo=gmail" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/roshingel/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+    <a href="https://www.linkedin.com/in/roshingel/">![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)</a>
   </p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Turning+ideas+into+digital+reality;Clean+code+advocate;Continuous+learner" alt="Typing SVG" />
